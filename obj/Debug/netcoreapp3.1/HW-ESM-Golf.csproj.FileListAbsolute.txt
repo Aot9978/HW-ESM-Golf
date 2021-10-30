@@ -1,0 +1,14 @@
+C:\Users\netty\source\repos\HW-ESM-Golf\bin\Debug\netcoreapp3.1\HW-ESM-Golf.exe
+C:\Users\netty\source\repos\HW-ESM-Golf\bin\Debug\netcoreapp3.1\HW-ESM-Golf.deps.json
+C:\Users\netty\source\repos\HW-ESM-Golf\bin\Debug\netcoreapp3.1\HW-ESM-Golf.runtimeconfig.json
+C:\Users\netty\source\repos\HW-ESM-Golf\bin\Debug\netcoreapp3.1\HW-ESM-Golf.runtimeconfig.dev.json
+C:\Users\netty\source\repos\HW-ESM-Golf\bin\Debug\netcoreapp3.1\HW-ESM-Golf.dll
+C:\Users\netty\source\repos\HW-ESM-Golf\bin\Debug\netcoreapp3.1\HW-ESM-Golf.pdb
+C:\Users\netty\source\repos\HW-ESM-Golf\obj\Debug\netcoreapp3.1\HW-ESM-Golf.csproj.AssemblyReference.cache
+C:\Users\netty\source\repos\HW-ESM-Golf\obj\Debug\netcoreapp3.1\HW-ESM-Golf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netty\source\repos\HW-ESM-Golf\obj\Debug\netcoreapp3.1\HW-ESM-Golf.AssemblyInfoInputs.cache
+C:\Users\netty\source\repos\HW-ESM-Golf\obj\Debug\netcoreapp3.1\HW-ESM-Golf.AssemblyInfo.cs
+C:\Users\netty\source\repos\HW-ESM-Golf\obj\Debug\netcoreapp3.1\HW-ESM-Golf.csproj.CoreCompileInputs.cache
+C:\Users\netty\source\repos\HW-ESM-Golf\obj\Debug\netcoreapp3.1\HW-ESM-Golf.dll
+C:\Users\netty\source\repos\HW-ESM-Golf\obj\Debug\netcoreapp3.1\HW-ESM-Golf.pdb
+C:\Users\netty\source\repos\HW-ESM-Golf\obj\Debug\netcoreapp3.1\HW-ESM-Golf.genruntimeconfig.cache
